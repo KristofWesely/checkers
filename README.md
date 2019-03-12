@@ -1,4 +1,4 @@
-# Checkers - Java
+# Checkers [Java]
 
 This is the solution for the Mandatory Assignment – J3 on the course 02160 – Agile Object-Oriented Software Development
 
